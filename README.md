@@ -1,4 +1,3 @@
-# (PART 1/3 — README TOO LARGE FOR ONE MESSAGE)
 
 <div align="center">
 
