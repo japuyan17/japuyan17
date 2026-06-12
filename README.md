@@ -38,6 +38,11 @@
 </div>
 
 ---
+# Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/japuyan17/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 # About Me
 
@@ -52,11 +57,3 @@ Interests:
   - Natural Language Processing
   - Software Engineering
   - Product Development
-
----
-
-# Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/japuyan17/output/github-contribution-grid-snake-dark.svg" />
-</p>
