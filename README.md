@@ -44,7 +44,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/japuyan17/japuyan17/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
-```
+
 
 # About Me
 
