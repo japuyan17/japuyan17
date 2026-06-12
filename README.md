@@ -42,13 +42,21 @@
 # About Me
 
 ```yaml
-name: James Floren Apuyan
-education: UC Berkeley — Data Science
-location: Berkeley, California
-interests:
+Name: James Floren Apuyan
+Education: UC Berkeley — Data Science
+Location: Berkeley, California
+Interests:
   - Artificial Intelligence
   - Machine Learning
   - Large Language Models
   - Natural Language Processing
   - Software Engineering
   - Product Development
+
+---
+
+# Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/japuyan17/output/github-contribution-grid-snake-dark.svg" />
+</p>
