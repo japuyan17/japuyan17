@@ -55,6 +55,8 @@ Location: Berkeley, California
 Interests:
   - Artificial Intelligence
   - Machine Learning
+  - Data Science
+  - Project Management
   - Large Language Models
   - Natural Language Processing
   - Software Engineering
